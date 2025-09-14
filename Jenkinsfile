@@ -14,8 +14,8 @@ pipeline {
                 deleteDir()
 
                 // Clone the Git repository
-                git branch: 'main',
-                    url: 'https://github.com/rahulwagh/devops-project-1.git'
+                git branch: 'master',
+                    url: 'https://github.com/Santru45/terraform-app-infra.git'
 
                 sh "ls -lart"
             }
