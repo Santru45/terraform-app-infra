@@ -1,4 +1,4 @@
-bucket_name = "terraform-jenkins-project-state-bucket"
+bucket_name = "terraform-python-app-bucket"
 name        = "environment"
 environment = "dev-1"
 
