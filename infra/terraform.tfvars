@@ -13,4 +13,4 @@ ec2_ami_id     = "ami-06dd92ecc74fdfb36"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "app.cloudaizen.com"
+domain_name = "cloudaizen.com"
